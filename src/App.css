@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+  
+.home,
+.show-product,
+.about{
+    margin-top:70px;
+}
+.about{
+    text-align: center;
+}
+.cart{
+    position: fixed;
+    z-index: 9999;
+    top: 15px;
+    margin-left: 1100px;
+}
+.cart-display{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    line-height: 2;
+    position: absolute;
+    font-size: 0.56rem;
+    top: 0;
+    right: -15px;
+}

@@ -1,0 +1,60 @@
+{
+    "Items":[
+        {
+            "id":1,
+            "img":"https://images.leflair.vn/w510/q85/5b1f7b1b400847000172514b.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"2"
+        },
+        {
+            "id":2,
+            "img":"https://images.leflair.vn/w510/q85/5afec137c937700016d4b4aa.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"0"
+        },
+        {
+            "id":3,
+            "img":"https://images.leflair.vn/w510/q85/5afec21beabd4b0015e277e4.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"5"
+        },
+        {
+            "id":4,
+            "img":"https://images.leflair.vn/w510/q85/5afec204c937700016d4b4b8.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"5"
+        },
+        {
+            "id":5,
+            "img":"https://images.leflair.vn/w510/q85/5afec18eeabd4b0015e277db.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"5"
+        },
+        {
+            "id":6,
+            "img":"https://images.leflair.vn/w510/q85/5a6b27da7c7c3900197141a9.jpg",
+            "description":"Thân bình bằng chất liệu inox 304, không biến đổi hay có mùi khi đun ở nhiệt độ cao, rất an toàn cho sức khỏe. Mâm nhiệt bằng inox, sử dụng rờ le kiểm soát nhiệt độ Offer control. Thước báo mực nước hiển thị bên ngoài giúp dễ dàng theo dõi lượng nước.Chức năng bảo vệ chống đun cạn nước.Tự đông tắt khi đã nấu xong.",
+            "brand": "Whirlpool",
+            "name":"Bình Đun Inox 1.7L",
+            "price":"1.199.000",
+            "stock":"5"
+        }
+    ],
+    "count": 6,
+    "currentCount": 6
+}
